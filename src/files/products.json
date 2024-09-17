@@ -1,0 +1,162 @@
+[
+    {
+        "ID": 1,
+        "Nombre": "Laptop Dell XPS 13",
+        "Precio": 999.99,
+        "Stock": 25,
+        "Proveedor": "Dell",
+        "Acciones": ["Actualizar", "Eliminar"]
+    },
+    {
+        "ID": 2,
+        "Nombre": "Smartphone Samsung Galaxy S21",
+        "Precio": 799.99,
+        "Stock": 30,
+        "Proveedor": "Samsung",
+        "Acciones": ["Actualizar", "Eliminar"]
+    },
+    {
+        "ID": 3,
+        "Nombre": "Auriculares Bose QuietComfort",
+        "Precio": 299.99,
+        "Stock": 15,
+        "Proveedor": "Bose",
+        "Acciones": ["Actualizar", "Eliminar"]
+    },
+    {
+        "ID": 4,
+        "Nombre": "Tablet Apple iPad Pro",
+        "Precio": 1099.99,
+        "Stock": 20,
+        "Proveedor": "Apple",
+        "Acciones": ["Actualizar", "Eliminar"]
+    },
+    {
+        "ID": 5,
+        "Nombre": "Reloj Garmin Forerunner 945",
+        "Precio": 599.99,
+        "Stock": 10,
+        "Proveedor": "Garmin",
+        "Acciones": ["Actualizar", "Eliminar"]
+    },
+    {
+        "ID": 6,
+        "Nombre": "Teclado mecánico Corsair K95",
+        "Precio": 179.99,
+        "Stock": 40,
+        "Proveedor": "Corsair",
+        "Acciones": ["Actualizar", "Eliminar"]
+    },
+    {
+        "ID": 7,
+        "Nombre": "Ratón Logitech MX Master 3",
+        "Precio": 99.99,
+        "Stock": 50,
+        "Proveedor": "Logitech",
+        "Acciones": ["Actualizar", "Eliminar"]
+    },
+    {
+        "ID": 8,
+        "Nombre": "Monitor ASUS ROG Swift",
+        "Precio": 499.99,
+        "Stock": 8,
+        "Proveedor": "ASUS",
+        "Acciones": ["Actualizar", "Eliminar"]
+    },
+    {
+        "ID": 9,
+        "Nombre": "Cámara Canon EOS R5",
+        "Precio": 3899.99,
+        "Stock": 5,
+        "Proveedor": "Canon",
+        "Acciones": ["Actualizar", "Eliminar"]
+    },
+    {
+        "ID": 10,
+        "Nombre": "Disco duro externo Seagate 2TB",
+        "Precio": 129.99,
+        "Stock": 60,
+        "Proveedor": "Seagate",
+        "Acciones": ["Actualizar", "Eliminar"]
+    },
+    {
+        "ID": 11,
+        "Nombre": "Impresora HP OfficeJet Pro",
+        "Precio": 199.99,
+        "Stock": 12,
+        "Proveedor": "HP",
+        "Acciones": ["Actualizar", "Eliminar"]
+    },
+    {
+        "ID": 12,
+        "Nombre": "Router Netgear Nighthawk",
+        "Precio": 149.99,
+        "Stock": 22,
+        "Proveedor": "Netgear",
+        "Acciones": ["Actualizar", "Eliminar"]
+    },
+    {
+        "ID": 13,
+        "Nombre": "Parlante JBL Flip 5",
+        "Precio": 119.99,
+        "Stock": 35,
+        "Proveedor": "JBL",
+        "Acciones": ["Actualizar", "Eliminar"]
+    },
+    {
+        "ID": 14,
+        "Nombre": "Gafas VR Oculus Quest 2",
+        "Precio": 299.99,
+        "Stock": 18,
+        "Proveedor": "Oculus",
+        "Acciones": ["Actualizar", "Eliminar"]
+    },
+    {
+        "ID": 15,
+        "Nombre": "Cargador Anker PowerCore 10000",
+        "Precio": 39.99,
+        "Stock": 75,
+        "Proveedor": "Anker",
+        "Acciones": ["Actualizar", "Eliminar"]
+    },
+    {
+        "ID": 16,
+        "Nombre": "Webcam Logitech C920",
+        "Precio": 79.99,
+        "Stock": 45,
+        "Proveedor": "Logitech",
+        "Acciones": ["Actualizar", "Eliminar"]
+    },
+    {
+        "ID": 17,
+        "Nombre": "Silla gaming DXRacer",
+        "Precio": 349.99,
+        "Stock": 7,
+        "Proveedor": "DXRacer",
+        "Acciones": ["Actualizar", "Eliminar"]
+    },
+    {
+        "ID": 18,
+        "Nombre": "Pantalla de monitor BenQ 24\"",
+        "Precio": 229.99,
+        "Stock": 28,
+        "Proveedor": "BenQ",
+        "Acciones": ["Actualizar", "Eliminar"]
+    },
+    {
+        "ID": 19,
+        "Nombre": "Estación de acoplamiento Dell USB-C",
+        "Precio": 149.99,
+        "Stock": 14,
+        "Proveedor": "Dell",
+        "Acciones": ["Actualizar", "Eliminar"]
+    },
+    {
+        "ID": 20,
+        "Nombre": "Teclado Logitech G Pro X",
+        "Precio": 129.99,
+        "Stock": 33,
+        "Proveedor": "Logitech",
+        "Acciones": ["Actualizar", "Eliminar"]
+    }
+]

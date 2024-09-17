@@ -1,0 +1,25 @@
+.botones {
+  display: flex;
+  font-size: 30px;
+  padding-left: 20px;
+}
+
+.vista-botones {
+  display: flex;
+  gap: 40px;
+}
+.vista-botones > button {
+  align-items: center;
+  background: rgb(246, 98, 98);
+  width: 120px;
+  height: 30px;
+  border-radius: 10px;
+  border: 0;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+}
+
+.vista-botones > button:hover {
+  background-color: black;
+  color: blue;
+}
