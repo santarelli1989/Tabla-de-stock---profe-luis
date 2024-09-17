@@ -1,18 +1,13 @@
-import './Buscador.css'
+import "./Buscador.css";
 
-function Buscador (){
-   
-   return (
+function Buscador() {
+  return (
     <>
-    <div className="Buscador">
-      <input
-        type="text"
-        placeholder="Buscar por nombre..."
-      />
-    </div>
+      <div className="buscador">
+        <input type="text" placeholder="buscar por nombre..." />
+      </div>
     </>
   );
-   
 }
 
 export default Buscador;
