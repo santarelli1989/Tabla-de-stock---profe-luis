@@ -2,7 +2,6 @@ import "./Tabla.css";
 
 function Tabla() {
   return (
-    <>
       <table>
         <thead>
           <tr>
@@ -23,7 +22,6 @@ function Tabla() {
           </tr>
         </tbody>
       </table>
-    </>
   );
 }
 

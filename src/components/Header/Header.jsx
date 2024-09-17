@@ -2,9 +2,9 @@ import "./Header.css";
 
 function Header() {
   return (
-    <>
-      <header className="Header">tabla de stock</header>
-    </>
+    <header className="Header">
+      Tabla de stock
+    </header>
   );
 }
 export default Header;

@@ -2,11 +2,9 @@ import "./Buscador.css";
 
 function Buscador() {
   return (
-    <>
-      <div className="buscador">
-        <input type="text" placeholder="buscar por nombre..." />
-      </div>
-    </>
+    <form className="buscador border-custom-top">
+      <input type="text" placeholder="Buscar por nombre..." />
+    </form>
   );
 }
 

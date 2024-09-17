@@ -1,0 +1,12 @@
+main {
+    width: 80%;
+    margin: auto;
+}
+
+.border-custom-top {
+    border-top: 1px solid rgb(199, 199, 199);
+}
+.border-y{
+    border-top: 1px solid rgb(199, 199, 199);
+    border-bottom: 1px solid rgb(199, 199, 199);
+}

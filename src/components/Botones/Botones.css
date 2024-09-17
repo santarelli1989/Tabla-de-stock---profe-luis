@@ -1,0 +1,47 @@
+.botones {
+  display: flex;
+  font-size: 30px;
+  padding: 20px 0;
+}
+
+.vista-botones {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  gap: 40px;
+}
+
+.botones-derecha {
+  display: flex;
+  gap: 30px;
+}
+
+.vista-botones div>button {
+  align-items: center;
+  background-color: rgb(246, 98, 98);
+  border-radius: 10px;
+  border: 0;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  text-transform: capitalize;
+  transition: all 0.2s ease;
+  padding: 10px 20px;
+  font-weight: bolder;
+  font-size: 16px;
+}
+
+.vista-botones div>button:hover {
+  background-color: black;
+  color: rgb(255, 255, 255);
+}
+
+div>button.agregar-producto {
+  background-color: white;
+  border: solid 1px green;
+  color: green;
+}
+
+div>button.agregar-producto:hover {
+  background-color: green;
+  color: white;
+}
